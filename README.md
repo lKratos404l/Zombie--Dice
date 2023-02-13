@@ -1,5 +1,5 @@
-# Zombie--Dice
-A c++ game of Zombie Dice 
+//Zombie--Dice
+//Zombie Dice Juego en C++ 
 
 #include <iostream>
 #include <ctime>
